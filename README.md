@@ -15,6 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Metrics](https://metrics.lecoq.io/Zepten?template=classic&topics=1&stars=1&languages=1&isocalendar=1&repositories=1&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&stars.limit=4&topics.mode=starred&topics.sort=stars&topics.limit=15&config.timezone=Europe%2FMoscow)
-
 ![](https://komarev.com/ghpvc/?username=Zepten)
