@@ -1,4 +1,4 @@
-### Hello 🐱
+### Hello! My name is Pavel 🐱
 
 <!--
 **Zepten/Zepten** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Zepten)](https://git.io/streak-stats)
 
 ![](https://komarev.com/ghpvc/?username=Zepten)
