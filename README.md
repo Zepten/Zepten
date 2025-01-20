@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on:
-  - [WareWarden](https://github.com/Zepten/WareWarden)
+  - [WareWarden](https://github.com/Zepten/WareWarden) (my personal pet project)
 - 🌱 I’m currently learning:
   - Fullstack web development (FastAPI + React)
 
