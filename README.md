@@ -13,11 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on:
-  - [WareWarden](https://github.com/Zepten/WareWarden) (my personal pet project)
-- 🌱 I’m currently learning:
-  - Fullstack web development (FastAPI + React)
+Hello 👋
 
 <!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=Zepten)](https://git.io/streak-stats) -->
 
-![](https://komarev.com/ghpvc/?username=Zepten)
+<!-- ![](https://komarev.com/ghpvc/?username=Zepten) -->
